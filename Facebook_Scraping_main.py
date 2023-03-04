@@ -9,8 +9,8 @@ Links_New_file = 'Excel file for all Cars links'
 
 
 "Login"
-username = "03078440508"
-password = "112223"
+username = ""
+password = ""
 
 def Links_scraping():
 
